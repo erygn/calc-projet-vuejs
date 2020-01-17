@@ -1,4 +1,12 @@
-# projet-calc
+# Calculatrice Financière
+
+Projet de calculatrice pour un gestionnaire de patrimoine regroupant plusieurs fonctions pour son activité
+
+<p align="center">
+    <img style="margin-right: 20px" width="30%" src="https://shuros.subswapr.fr/presentation1.jpg">
+    <img width="30%" src="https://shuros.subswapr.fr/presentation2.jpg">
+</p>
+
 
 ## Project setup
 ```
