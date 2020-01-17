@@ -47,7 +47,7 @@
                     </v-list-item>
                 </a>
                 <p style="margin-top: 50px; margin-left: 12px; font-size: 12px">Version 0.1.5</p>
-                <p style="margin-left: 12px; font-size: 10px; margin-top: -18px; margin-right: 12px">Développée par des Etudiants de l'UGA</p>
+                <p style="margin-left: 12px; font-size: 10px; margin-top: -18px; margin-right: 12px">Développée par Genesis Studio // <a style="color: #333333; font-weight: 700" target="_blank" href="https://github.com/erygn">GitHub</a></p>
             </v-list>
         </v-navigation-drawer>
 
